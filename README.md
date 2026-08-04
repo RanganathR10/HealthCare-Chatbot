@@ -1,4 +1,5 @@
-# The rapid digital transformation in healthcare has created a growing demand for intelligent 
+# HealthCare Chatbot
+The rapid digital transformation in healthcare has created a growing demand for intelligent 
 systems capable of delivering accurate, timely, and personalized medical assistance. This 
 project presents an Intelligent Healthcare Chatbot that leverages Large Language Models 
 (LLMs) integrated with a domain-specific Healthcare Knowledge Base to provide reliable, 
