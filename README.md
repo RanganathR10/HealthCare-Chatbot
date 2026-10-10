@@ -203,7 +203,3 @@ Professor and Head, Department of CS&E (Data Science)
 ## 📄 Disclaimer
 
 HealthBridge is an academic project intended for educational and informational purposes. It is not a certified medical diagnostic system and must not be used as a substitute for professional medical care.
-
-## 📜 License
-
-Choose an appropriate open-source license before publishing this project for reuse. If you have not selected one, the repository has no explicitly granted open-source license by default.
